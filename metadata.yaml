@@ -1,0 +1,50 @@
+_repo: The-Expedition-of-Humphry-Clinker_2160
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Smollett, T. (Tobias)
+    aliases:
+    - Smollett, Tobias George
+    - Smollet, T. (Tobias)
+    birthdate: 1721
+    deathdate: 1771
+    gutenberg_agent_id: '838'
+    url: http://www.gutenberg.org/2009/agents/838
+    wikipedia: http://en.wikipedia.org/wiki/Tobias_Smollett
+description: "The Expedition of Humphry Clinker was the last of the picaresque novels\
+  \ of Tobias Smollett, published in London on 17 June 1771 (just three months before\
+  \ Smollett's death), and is considered by many to be his best and funniest work.\
+  \ It is an epistolary novel, presented in the form of letters written by six characters:\
+  \ Matthew Bramble, a Welsh Squire; his sister Tabitha; their niece Lydia and nephew\
+  \ Jeremy Melford; Tabitha's maid Winifred Jenkins; and Lydia's suitor Wilson.\n\
+  Much of the comedy arises from differences in the descriptions of the same events\
+  \ by the participants. Attributions of motives and descriptions of behaviour show\
+  \ wild variation and reveal much about the character of the teller. The setting,\
+  \ amidst the high-society spa towns and seaside resorts of the 18th century, provides\
+  \ his characters with many opportunities for satirical observations on English life\
+  \ and manners.\nThe author's travels in Scotland, France, and Italy helped provide\
+  \ inspiration for the plot.\n\n\n From Wikipedia (CC BY-SA)."
+gutenberg_bookshelf:
+- Historical Fiction
+- Best Books Ever Listings
+gutenberg_issued: '2000-04-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '2160'
+  wikidata: Q3203413
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Epistolary fiction'
+- !lcsh 'Great Britain -- Fiction'
+- !lcsh 'Travelers -- Fiction'
+- !lcc 'PR'
+- GITenberg
+title: The Expedition of Humphry Clinker
+url: http://www.gutenberg.org/ebooks/2160
+wikipedia:
+- https://fr.wikipedia.org/wiki/L%27Exp%C3%A9dition_de_Humphry_Clinker
+- https://en.wikipedia.org/wiki/The_Expedition_of_Humphry_Clinker
+- https://nl.wikipedia.org/wiki/The_Expedition_of_Humphry_Clinker
