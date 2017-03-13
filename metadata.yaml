@@ -1,5 +1,8 @@
 _repo: The-Expedition-of-Humphry-Clinker_2160
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: generated
+  image_path: cover.png
 creator:
   author:
     agent_name: Smollett, T. (Tobias)
@@ -24,6 +27,8 @@ description: "The Expedition of Humphry Clinker was the last of the picaresque n
   \ his characters with many opportunities for satirical observations on English life\
   \ and manners.\nThe author's travels in Scotland, France, and Italy helped provide\
   \ inspiration for the plot.\n\n\n From Wikipedia (CC BY-SA)."
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/2160#The-Expedition-of-Humphry-Clinker
 gutenberg_bookshelf:
 - Historical Fiction
 - Best Books Ever Listings
